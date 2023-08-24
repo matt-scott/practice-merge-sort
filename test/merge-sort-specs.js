@@ -52,7 +52,7 @@ describe ('Better Sorting Algorithms', function () {
 
 
 
-  it('performs a out-of-place merge sort', function () {
+  it('performs an out-of-place merge sort', function () {
 
     let newArr = mergeSort(arr);
 
